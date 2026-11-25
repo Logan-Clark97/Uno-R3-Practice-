@@ -4,3 +4,10 @@
 I am ending my project anxiety and starting with something light and fun :) 
 
 Here's to looking back on this repo with fond memories. To myself in the future, please know that you're awesome. 
+
+
+
+
+## Completed Projects
+
+- [Project 01 - External LED Blink](01_External_LED_Blink.md)
