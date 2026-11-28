@@ -11,3 +11,4 @@ Here's to looking back on this repo with fond memories. To myself in the future,
 ## Completed Projects
 
 - [Project 01 - External LED Blink](01_External_LED_Blink.md)
+- [Project 02 - Traffic Light Simulator](02_Traffic_Light.md)
