@@ -99,3 +99,9 @@ UNO R3.
 The red LED illuminates for five seconds, followed by the green LED for
 five seconds and the yellow LED for two seconds. The sequence repeats
 continuously.
+
+## Project Photograph
+
+![Traffic Light Simulator](02_Traffic_Light.jpeg)
+
+*Completed traffic light circuit using the ELEGOO UNO R3, three LEDs, three 330Ω resistors, and seven jumper wires.*
