@@ -102,4 +102,4 @@ continuously.
 
 ## Project Photograph
 
-![Traffic Light Simulator](./02_Traffic_Light.jpg)
+![Traffic Light Simulator](./02_trafficlight.jpeg)
