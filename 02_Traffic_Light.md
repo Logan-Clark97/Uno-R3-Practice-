@@ -102,6 +102,4 @@ continuously.
 
 ## Project Photograph
 
-![Traffic Light Simulator](02_Traffic_Light.jpeg)
-
-*Completed traffic light circuit using the ELEGOO UNO R3, three LEDs, three 330Ω resistors, and seven jumper wires.*
+![Traffic Light Simulator](./02_Traffic_Light.jpg)
